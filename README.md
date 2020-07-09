@@ -1,9 +1,9 @@
-![](https://github.com/pitassimario/pitassimario/blob/master/couverture-github.png)
+![](https://github.com/pitassimario/pitassimario/blob/master/couverture.png)
 
 ### Hello 👋
 
-- 🔭 I’m currently working on my personal website.
-- 🌱 I’m currently learning cognitive and computer science.
+- 🔭 I’m currently working on my [personal website](https://pitassi.fr).
+- 🌱 I’m learning cognitive and computer science.
 - 📫 How to reach me: [@mariopitassi](https://telegram.me/mariopitassi)
 
 <!--
