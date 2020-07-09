@@ -1,4 +1,10 @@
-### Hi there 👋
+<img src="./ogp.png" style="margin:0 auto; max-width: 400px"/>
+
+### Hello 👋
+
+- 🔭 I’m currently working on my personal website.
+- 🌱 I’m currently learning cognitive and computer science.
+- 📫 How to reach me: [@mariopitassi](https://telegram.me/mariopitassi)
 
 <!--
 **pitassimario/pitassimario** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
