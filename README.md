@@ -1,4 +1,4 @@
-<img src="https://github.com/pitassimario/pitassimario/blob/master/ogp.png" style="margin:0 auto; max-width: 400px"/>
+![](https://github.com/pitassimario/pitassimario/blob/master/couverture-github.png)
 
 ### Hello 👋
 
