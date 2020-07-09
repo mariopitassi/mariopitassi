@@ -1,4 +1,4 @@
-<img src="./ogp.png" style="margin:0 auto; max-width: 400px"/>
+<img src="https://github.com/pitassimario/pitassimario/blob/master/ogp.png" style="margin:0 auto; max-width: 400px"/>
 
 ### Hello 👋
 
