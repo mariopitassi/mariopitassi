@@ -3,7 +3,7 @@
 ### Hello 👋
 
 - 🔭 I’m currently working on my [personal website](https://pitassi.fr).
-- 🌱 I’m learning cognitive and computer science.
+- 🌱 I’m learning computer and cognitive sciences.
 - 📫 How to reach me: [@mariopitassi](https://telegram.me/mariopitassi)
 
 <!--
