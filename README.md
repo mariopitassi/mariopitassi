@@ -1,10 +1,8 @@
-![](https://github.com/pitassimario/pitassimario/blob/master/couverture.png)
-
 ### Hello 👋
 
-- 🔭 I’m currently working on my [personal website](https://pitassi.fr).
+- ⚡️ My new [website](https://pitassi.fr) is online.
 - 🌱 I’m learning computer science and innovation management.
-- 📫 How to reach me: [@mariopitassi](https://telegram.me/mariopitassi)
+- 📫 How to reach me: [@mariopitassi](https://linkedin.com/in/mariopitassi)
 
 <!--
 **pitassimario/pitassimario** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
